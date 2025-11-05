@@ -1,0 +1,5 @@
+library(readxl)
+library(tidyverse)
+library(dplyr)
+base = read_xlsx("Base_trabalho.xlsx")
+base$escolaridade = as.factor(base$escolaridade)
