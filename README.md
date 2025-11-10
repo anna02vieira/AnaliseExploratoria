@@ -10,3 +10,4 @@ nível de formção do nível superior, possuem um nível periculosidade um puco
 Boxplot Tempo de prisão : Aparentemente, a mediana e a média estão posicionadas na mesma região,
 com isso, podemos dizer que metade do grupo de carcerarios estão presos a pelo
 menos 60 meses.
+
